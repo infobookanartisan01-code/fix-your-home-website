@@ -1,0 +1,94 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f5f7fb;
+  margin: 0;
+  padding: 0;
+}
+
+.topbar {
+  background: #111827;
+  color: white;
+  padding: 20px;
+}
+
+.container {
+  padding: 20px;
+}
+
+h2 {
+  color: #0f766e;
+}
+
+.gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 15px;
+  margin-top: 15px;
+}
+
+.shot {
+  background: white;
+  padding: 10px;
+  border-radius: 12px;
+  text-align: center;
+  border: 1px solid #ddd;
+}
+
+.shot img {
+  width: 100%;
+  max-width: 160px;
+  border-radius: 10px;
+}
+
+.shot p {
+  font-weight: bold;
+  margin-top: 8px;
+  font-size: 13px;
+}
+
+.footer {
+  margin-top: 30px;
+  padding: 16px 0;
+  border-top: 1px solid #ddd;
+  color: #6b7280;
+  font-size: 13px;
+  text-align: center;
+}
+
+.brandRow {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+}
+
+.logo {
+  width: 55px;
+  height: 55px;
+  border-radius: 14px;
+  display: block;
+  margin: 0;          /* IMPORTANT */
+  object-fit: contain; /* IMPORTANT */
+}
+
+main img {
+  margin-top: 10px;
+  border-radius: 12px;
+}
+
+.brandBlock {
+  text-align: center;
+}
+
+.brandRow {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+}
+
+.tagline {
+  margin-top: 8px;
+  font-size: 15px;
+  color: #e5e7eb;
+}
