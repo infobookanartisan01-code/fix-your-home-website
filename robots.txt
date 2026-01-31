@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://infobookanartisan01-code.github.io/fix-your-home-website/sitemap.xml
