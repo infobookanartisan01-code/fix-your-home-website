@@ -1,2 +1,8 @@
-# fix-your-home-website
-Official website for Fix your Home – Book an Artisan. Includes legal documents, app screenshots, QR downloads, and information for homeowners and artisans in South Africa.
+# Fix Your Home – Book an Artisan
+
+Official website:
+https://infobookanartisan01-code.github.io/fix-your-home-website/
+
+This repository contains the source files for the website.
+
+For the live public website, visit the link above.
